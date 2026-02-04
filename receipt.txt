@@ -1,0 +1,20 @@
+====== GROCERY SHOP RECEIPT ======
+Date: 2026-02-05T01:56:22.151836425
+Potato x 3 = ₹121.200005
+
+Subtotal: ₹121.200005
+Discount (10%): ₹12.120001
+Final Total: ₹109.08
+
+=================================
+
+====== GROCERY SHOP RECEIPT ======
+Date: 2026-02-05T01:56:54.191626992
+Garlic x 1 = ₹35.3
+
+Subtotal: ₹35.3
+No discount applied
+Final Total: ₹35.3
+
+=================================
+
