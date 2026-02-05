@@ -62,6 +62,36 @@ java src.Main
 
 ---
 
+## Preview & Demo
+
+### Terminal Demo (Asciinema)
+
+A full terminal walkthrough of the application showing:
+- Item selection
+- Quantity input
+- Billing and discounts
+- Inventory updates
+- Receipt generation
+
+▶️ **Watch here:** https://asciinema.org/a/Wx6hEYEFhRxn0ZTk
+
+---
+
+### Screenshots
+
+Screenshots demonstrating core functionality:
+
+- Order flow and billing output  
+- Inventory persistence (`inventory.txt`)  
+- Generated receipts (`receipt.txt`)  
+
+Screenshots are available in the `preview/` folder:
+- `preview/order.png`
+- `preview/inventory.png`
+- `preview/receipt.png`
+
+---
+
 ## Sample Functionality
 
 - Add grocery items by name

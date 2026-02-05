@@ -11,3 +11,7 @@ Thumbs.db
 # IDE files
 .vscode/
 .idea/
+
+# Runtime data files
+inventory.txt
+receipt.txt
